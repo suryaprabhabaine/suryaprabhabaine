@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Baine Suryaprabhavathi  
+<!-- 🌟 GitHub Profile README for Baine Suryaprabhavathi -->
 
-💻 *Java Backend Developer | Core Java | SQL | MySQL | Learning Spring Boot*  
+<h1 align="center">👋 Hi, I'm Baine Suryaprabhavathi</h1>
+<h3 align="center">💻 Java Backend Developer | Core Java | SQL | MySQL | Learning Spring Boot</h3>
 
 ---
 
@@ -13,51 +14,58 @@
 ---
 
 ### 🧩 Academic Projects  
+
 #### 🗃 Student Database Management System  
-- Built with Core Java using LinkedHashMap for fast data storage and retrieval.  
-- Implemented structured exception handling and modular design.  
+- Built with *Core Java* using *LinkedHashMap* for efficient data storage and retrieval.  
+- Implemented *structured exception handling* and *modular design*.  
 
 #### ✈ Tour and Travel Management System  
-- Developed using Java and SQL for automating ticket booking and data handling.  
-- Added authentication and improved data security.  
+- Developed using *Java and SQL* for automating ticket booking and data handling.  
+- Added *authentication* and improved *data security*.  
 
 ---
 
 ### ⚙ Tech Stack  
-*Languages:* Java, SQL  
-*Databases:* MySQL  
-*Frameworks:* (Learning) Spring Boot  
-*Concepts:* OOPs, Collections, Exception Handling, JDBC  
-*Tools:* Eclipse, VS Code, Git, GitHub  
+
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| 💻 *Languages* | Java, SQL |
+| 🗄 *Databases* | MySQL |
+| 🧩 *Frameworks* | (Learning) Spring Boot |
+| 🔧 *Concepts* | OOPs, Collections, Exception Handling, JDBC |
+| 🛠 *Tools* | Eclipse, VS Code, Git, GitHub |
 
 ---
 
 ### 📈 Currently Exploring  
-- Spring Boot microservices  
-- RESTful APIs  
-- Backend best practices and clean code design  
+- 🌱 Spring Boot Microservices  
+- 🔗 RESTful APIs  
+- 🧹 Backend Best Practices & Clean Code Design  
 
 ---
 
 ### 🤝 Let's Connect  
-- 💼 [LinkedIn](https://in.linkedin.com/in/suryaprabha-baine-0a8457265)  
-- 📧 Email: suryaprabhabaine12@gmail.com  
+
+<p align="center">
+  <a href="https://in.linkedin.com/in/suryaprabha-baine-0a8457265" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:suryaprabhabaine12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-⭐ “Code. Learn. Grow.”
+### 📊 GitHub Insights  
 
-<!--
-**suryaprabhabaine/suryaprabhabaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryaprabhabaine&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprabhabaine&theme=tokyonight" height="160" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ “Code. Learn. Grow.”  
+
+
