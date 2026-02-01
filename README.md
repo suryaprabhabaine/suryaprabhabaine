@@ -8,18 +8,20 @@
 ### 🌟 About Me  
 🎓 Computer Science graduate passionate about backend development.  
 🚀 Skilled in *Core Java, SQL, and MySQL*, with hands-on experience building real-world projects.  
-🧠 Strong foundation in *OOPs, Collections, and Exception Handling*.  
-📚 Currently learning *Spring Boot* and *RESTful API development*.  
-
+🧠 Strong foundation in *OOPs*.  
+📚
 ---
+Student Database Management System (Core Java)
+• Developed a console-based application to manage student records.
+• Implemented CRUD operations using Core Java concepts.
+• Improved data handling efficiency through structured logic.
+Personal Portfolio Website (HTML)
+• Built a personal portfolio webpage using HTML.
+• Created sections like Header and About Me to display profile details.
 
 ### 🧩 Academic Projects  
-
-#### 🗃 Student Database Management System  
-- Built with *Core Java* using *LinkedHashMap* for efficient data storage and retrieval.  
-- Implemented *structured exception handling* and *modular design*.  
-
 #### ✈ Tour and Travel Management System  
+
 - Developed using *Java and SQL* for automating ticket booking and data handling.  
 - Added *authentication* and improved *data security*.  
 
@@ -31,8 +33,7 @@
 |-----------|----------------------|
 | 💻 *Languages* | Java, SQL |
 | 🗄 *Databases* | MySQL |
-| 🧩 *Frameworks* | (Learning) Spring Boot |
-| 🔧 *Concepts* | OOPs, Collections, Exception Handling, JDBC |
+| 🔧 *Concepts* | OOPs |
 | 🛠 *Tools* | Eclipse, VS Code, Git, GitHub |
 
 ---
